@@ -10,6 +10,10 @@ header {
   background-size: cover;
 }
 
+.hamburger:hover {
+  content: url(/images/hamburger-menu-hover.png);
+}
+
 .menubutton {
   font-size: 33px;
   color: #0a3641;
@@ -19,6 +23,13 @@ header {
 
 .menubutton:hover {
   color: #032d5c;
+  text-decoration: underline;
+}
+
+.tl-buttons {
+  float: right;
+  padding-right: 17px;
+  padding-top: 21.6px;
 }
 
 main {
@@ -32,16 +43,36 @@ main {
   background-attachment: fixed;
 }
 
-footer {
-  margin-top: 0px;
-  height: 60px;
-  top: 0;
-  margin-left: 50px;
-  margin-right: 50px;
-  background-image: url(/images/background.jpg);
-  background-color: rgb(219, 219, 219);
-  background-repeat: no-repeat;
-  background-size: cover;
+.breadcrumbs {
+  font-family: "Palatino Linotype";
+  font-size: 29px;
+  font-style: normal;
+  color: #0d0d0d;
+  text-decoration: none;
+  padding: 17px;
+}
+
+.breadcrumbs:hover {
+  color: #020659;
+  text-decoration: underline;
+}
+
+.currentbc {
+  font-family: "Palatino Linotype";
+  font-size: 29px;
+  font-style: normal;
+  color: #0d0d0d;
+  text-decoration: none;
+  padding: 17px;
+}
+
+.arrows {
+  font-family: "Palatino Linotype";
+  font-size: 29px;
+  font-style: normal;
+  color: #0d0d0d;
+  text-decoration: none;
+  padding: 17px;
 }
 
 h1 {
@@ -69,6 +100,27 @@ h2 {
   font-variant: normal;
   display: block;
   max-width: 800px;
+}
+
+.categorieshp {
+  font-family: "Palatino Linotype";
+  font-size: 40px;
+  font-style: normal;
+  display: block;
+  max-width: 800px;
+  color: #0d0d0d;
+}
+
+footer {
+  margin-top: 0px;
+  height: 60px;
+  top: 0;
+  margin-left: 50px;
+  margin-right: 50px;
+  background-image: url(/images/background.jpg);
+  background-color: rgb(219, 219, 219);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .footnav {
