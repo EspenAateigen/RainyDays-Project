@@ -1,0 +1,27 @@
+<svg id="Hamburgermenu" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="64" height="64" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Repeat_Grid_1" data-name="Repeat Grid 1" clip-path="url(#clip-path)">
+    <g transform="translate(-45 -32)">
+      <g id="Rectangle_8" data-name="Rectangle 8" transform="translate(45 32)" fill="#0a3641" stroke="#707070" stroke-linecap="round" stroke-linejoin="round" stroke-width="1">
+        <rect width="64" height="16" rx="7" stroke="none"/>
+        <rect x="0.5" y="0.5" width="63" height="15" rx="6.5" fill="none"/>
+      </g>
+    </g>
+    <g transform="translate(-45 -8)">
+      <g id="Rectangle_8-2" data-name="Rectangle 8" transform="translate(45 32)" fill="#0a3641" stroke="#707070" stroke-linecap="round" stroke-linejoin="round" stroke-width="1">
+        <rect width="64" height="16" rx="7" stroke="none"/>
+        <rect x="0.5" y="0.5" width="63" height="15" rx="6.5" fill="none"/>
+      </g>
+    </g>
+    <g transform="translate(-45 16)">
+      <g id="Rectangle_8-3" data-name="Rectangle 8" transform="translate(45 32)" fill="#0a3641" stroke="#707070" stroke-linecap="round" stroke-linejoin="round" stroke-width="1">
+        <rect width="64" height="16" rx="7" stroke="none"/>
+        <rect x="0.5" y="0.5" width="63" height="15" rx="6.5" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>
