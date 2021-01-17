@@ -1,8 +1,32 @@
-body {
+.header {
+  position: sticky;
+  size: 173px;
+  top: 0;
+  margin-left: 50px;
+  margin-right: 50px;
+  background-image: url(/images/background.jpg);
+  background-color: rgb(219, 219, 219);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+main {
+  margin-left: 50px;
+  margin-right: 50px;
   background-image: url(/images/background.jpg);
   background-color: rgb(219, 219, 219);
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
-  background-position: center;
+}
+
+.footer {
+  size: 173px;
+  top: 0;
+  margin-left: 50px;
+  margin-right: 50px;
+  background-image: url(/images/background.jpg);
+  background-color: rgb(219, 219, 219);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
